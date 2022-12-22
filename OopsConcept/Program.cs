@@ -17,7 +17,9 @@
             demo1 dobj = new demo1();
             dobj.add();
 
-           
+            Operation op1 = new Operation();
+            op1.AddNum();
+
         }
     }
 }
